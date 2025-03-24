@@ -1,4 +1,4 @@
-[logo](https://github.com/Raju-kumar30/Raju-kumar30/blob/main/WhatsApp%20Image%202025-02-08%20at%2022.10.47_c481b985.jpg)
+|[logo](https://github.com/Raju-kumar30/Raju-kumar30/blob/main/WhatsApp%20Image%202025-02-08%20at%2022.10.47_c481b985.jpg)
 <h1 align="center">Hi 👋, I'm Raju kumar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right"alt="coding"width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw35AkhtxgeXx-wec_DPAmdK&ust=1742921384674000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj8ya6Wo4wDFQAAAAAdAAAAABAE https://i.gifer.com/Ra6g.gif
